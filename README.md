@@ -1,0 +1,2 @@
+# g_research_financialforecasting_challenge
+Machine Learning challenge 
